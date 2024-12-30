@@ -1,6 +1,8 @@
 # DID
 Difference-in-Differences (DID) with Multiple Time Periods Use att_gt And aggte (did) With (In) R Software
 
+https://www.youtube.com/watch?v=FqjE_p7iPm4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
